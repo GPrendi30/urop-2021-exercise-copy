@@ -1,3 +1,8 @@
+# NOTICE
+This is a copy of the urop-2021-exercise hosted by USI in their github repo https://github.com/testingautomated-usi/urop-2021-exercise 
+
+Look for my genetic algorithm's implementation in the /ga folder
+
 # Exercise for 2021 UROP application "Developing Self-Driving Car Autopilots using Reinforcement Learning Algorithms"
 
 The task consists in implementing a Genetic Algorithm that generates closed tracks for the [DonkeyCar](https://www.donkeycar.com/). 
@@ -45,4 +50,4 @@ The solution to this problem is not unique, i.e. there are several tracks with t
 
 Install python on your machine (we used version 3.6) and install the requirements with `pip install -r requirements.txt`.
 If you execute [main.py](https://github.com/testingautomated-usi/urop-2021-exercise/blob/master/main.py) 
-you should see the plot above indicating that all the dependencies have been correctly installed.
+you should see the plot above indicating that all the dependencies have been correctly installed
